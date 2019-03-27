@@ -1,2 +1,4 @@
-# Introduction
+# 简介
+
+整理Android相关知识点，包括基本知识点理解、Android源码理解、常用第三库源码理解等。
 
